@@ -14,7 +14,7 @@ import javax.servlet.http.PushBuilder;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@SpringBootTest
+//@SpringBootTest
 public class UserServiceTests {
 
     @Autowired
